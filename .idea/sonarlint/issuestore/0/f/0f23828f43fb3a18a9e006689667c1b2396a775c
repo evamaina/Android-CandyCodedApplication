@@ -1,0 +1,27 @@
+
+|squid:S3008"gRename this field "onOptionsItemSelected_result" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù“¼À
+msquid:S3008"XRename this field "called_Intent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Œş˜
+|squid:S3008"bRename this field "called_Intent_correctly" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Õ‚øÿÿÿÿ
+tsquid:S3008"_Rename this field "called_startActivity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿê¿§
+qsquid:S1450"WRemove the "activity" field and declare it as a local variable in the relevant methods.(‹ıªÇøÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç“ƒıÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨óşÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„ğÌúÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©óË
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í•„
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ŠŠÕ–
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(í•„
+?squid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

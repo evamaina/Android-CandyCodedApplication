@@ -1,0 +1,6 @@
+
+Ksquid:EmptyStatementUsageCheck@"Remove this empty statement.(Î˜™‘ÿÿÿÿÿ
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Õíç
+Isquid:S1135S"2Complete the task associated to this TODO comment.(ÛÎ´Á
+Gsquid:S1481F"+Remove this unused "cursor" local variable.(Áëÿòøÿÿÿÿ
+esquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±Ž
